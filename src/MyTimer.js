@@ -12,7 +12,7 @@ class MyTimer extends Component {
     const {count} = this.state;
     return (
       <div>
-        <h1>current count: {count} </h1>
+        <p>current count: {count} </p>
       </div>
     )
   }
