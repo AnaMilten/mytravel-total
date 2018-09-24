@@ -4,8 +4,8 @@ import MyTimer from './MyTimer';
 class App extends Component {
     render() {
         return(
-            <h1>Timer</h1>
             <div>
+                <h1>Timer</h1>
                 <MyTimer />
             </div>
         )
